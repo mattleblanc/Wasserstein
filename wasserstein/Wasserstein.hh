@@ -39,7 +39,7 @@
 #define WASSERSTEIN_HH
 
 #include "internal/CenterWeightedCentroid.hh"
-#include "internal/CorrelationDimension.hh"
+//#include "internal/CorrelationDimension.hh"
 #include "internal/EMD.hh"
 #include "internal/Event.hh"
 #include "internal/NetworkSimplex.hh"
